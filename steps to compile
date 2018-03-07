@@ -1,0 +1,13 @@
+download the dataset from the link.
+extract zip file
+import ibraries
+load data
+function to read the image.
+load the dataset
+normalize the images.
+targetvariable-encode numeric value
+transfer the learning with Inception v3
+set model architecture
+predict test data
+get the labels
+see classification output in subm1 file
